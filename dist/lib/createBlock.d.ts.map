@@ -1,0 +1,1 @@
+{"version":3,"file":"createBlock.d.ts","sourceRoot":"","sources":["../../src/lib/createBlock.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,eAAe,CAAC;AAEtC,KAAK,KAAK,CAAC,CAAC,GAAG,OAAO,IAAI,CAAC,CAAC;AAE5B,KAAK,qBAAqB,GAAG,CAAC,CAAC,EAAE,KAAK,EAAE,KAAK,CAAC,CAAC,CAAC,KAAK,KAAK,CAAC;AAE3D,eAAO,MAAM,WAAW,0BAA2B,qBAAqB,aACvD,KAAK,UAIrB,CAAC"}
